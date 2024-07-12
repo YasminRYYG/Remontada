@@ -1,0 +1,14 @@
+body{
+    max-width: 70%;
+    margin: 0;
+}
+nav{
+    width: 70%;
+    height: 100px;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
